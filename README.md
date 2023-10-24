@@ -1,3 +1,6 @@
+forked 02nov23, mostly to tweak a few things for my use cases.
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/806104/175655252-d77cef62-31f5-4f40-a2ad-c1406a6dd1b9.png" height="128">
   <h1 align="center">CodeEditTextView</h1>
